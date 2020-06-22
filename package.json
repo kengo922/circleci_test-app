@@ -1,0 +1,5 @@
+{
+  "name": "circleci_test-app",
+  "private": true,
+  "dependencies": {}
+}
