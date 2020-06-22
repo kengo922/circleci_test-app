@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+- test circleCI app
 
-Things you may want to cover:
+## Main reference
+- https://qiita.com/Adakan/items/ab7aefc30c63f386bd3f
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Sub reference
+- https://qiita.com/gold-kou/items/4c7e62434af455e977c2
